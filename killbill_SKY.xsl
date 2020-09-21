@@ -619,9 +619,9 @@
                 <meta name="author" content="Kazkommertsbank"/>
                 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
                 <!-- styles -->
-                <link href="bee.css" rel="stylesheet"/>
-                <link href="{$inc}bootstrap-css.css" rel="stylesheet"/>
-                <link href="{$inc}bootstrap-response.css" rel="stylesheet"/>
+                <link href="/killbill/2013/bee.css" rel="stylesheet"/>
+                <link href="/killbill/2013/bootstrap-css.css" rel="stylesheet"/>
+                <link href="/killbill/2013/bootstrap-response.css" rel="stylesheet"/>
             </head>
 
             <body>
@@ -638,9 +638,8 @@
                     </div>
                 </div>
             </body>
-            <script src="/includes/service/killbill_check.js" >&#160;</script>
-            <script src="{$inc}jquery-1.7.2-ver.js">&#160;</script>
-            <script src="{$inc}jq.maskedinput.js">&#160;</script>
+            <script src="/killbill/2013/jquery-1.7.2-ver.js">&#160;</script>
+            <script src="/killbill/2013/jq.maskedinput.js">&#160;</script>
             <script>
                 $(document).ready(function() {
                 $("#card_no_bin2").mask("?9999 9999 9999 9999",{placeholder:" "});
