@@ -619,7 +619,7 @@
                 <meta name="author" content="Kazkommertsbank"/>
                 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
                 <!-- styles -->
-                <link href="{$inc}bee.css" rel="stylesheet"/>
+                <link href="bee.css" rel="stylesheet"/>
                 <link href="{$inc}bootstrap-css.css" rel="stylesheet"/>
                 <link href="{$inc}bootstrap-response.css" rel="stylesheet"/>
             </head>
